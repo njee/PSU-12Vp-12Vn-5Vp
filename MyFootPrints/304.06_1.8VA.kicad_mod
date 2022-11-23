@@ -28,4 +28,9 @@
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
+  (model "${KIPRJMOD}/MyFootPrints/3D/Transfo_Gerth_6V.step"
+    (offset (xyz -16 -13.5 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )
