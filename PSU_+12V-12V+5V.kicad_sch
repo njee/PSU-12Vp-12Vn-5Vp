@@ -2624,7 +2624,7 @@
     (uuid 6fd7016a-1730-40c6-9d0e-a95a44381179)
     (property "Reference" "C1" (id 0) (at 48.9013 67.31 90))
     (property "Value" "0.1µ" (id 1) (at 48.9013 69.85 90))
-    (property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder" (id 2) (at 48.895 74.295 0)
+    (property "Footprint" "Capacitor_THT:C_Disc_D6.0mm_W2.5mm_P5.00mm" (id 2) (at 48.895 74.295 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 48.895 74.295 0)
@@ -2726,7 +2726,7 @@
     (uuid 97520acb-35f8-48c3-a00c-f4b323cc3ab9)
     (property "Reference" "C6" (id 0) (at 153.67 92.075 0))
     (property "Value" "0.1µ" (id 1) (at 153.67 89.535 0))
-    (property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder" (id 2) (at 149.86 90.805 0)
+    (property "Footprint" "Capacitor_THT:C_Disc_D6.0mm_W2.5mm_P5.00mm" (id 2) (at 149.86 90.805 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 149.86 90.805 0)
@@ -2849,7 +2849,7 @@
     (uuid b293b6b5-17ee-4dd0-9c2c-4292fce38419)
     (property "Reference" "C2" (id 0) (at 48.9013 85.09 90))
     (property "Value" "0.1µ" (id 1) (at 48.9013 87.63 90))
-    (property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder" (id 2) (at 48.895 92.075 0)
+    (property "Footprint" "Capacitor_THT:C_Disc_D6.0mm_W2.5mm_P5.00mm" (id 2) (at 48.895 92.075 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 48.895 92.075 0)
@@ -3181,10 +3181,10 @@
 
   (symbol_instances
     (path "/6fd7016a-1730-40c6-9d0e-a95a44381179"
-      (reference "C1") (unit 1) (value "0.1µ") (footprint "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder")
+      (reference "C1") (unit 1) (value "0.1µ") (footprint "Capacitor_THT:C_Disc_D6.0mm_W2.5mm_P5.00mm")
     )
     (path "/b293b6b5-17ee-4dd0-9c2c-4292fce38419"
-      (reference "C2") (unit 1) (value "0.1µ") (footprint "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder")
+      (reference "C2") (unit 1) (value "0.1µ") (footprint "Capacitor_THT:C_Disc_D6.0mm_W2.5mm_P5.00mm")
     )
     (path "/a4d6fd72-18d2-4035-a3c8-20337a49b6b9"
       (reference "C3") (unit 1) (value "2200µ") (footprint "Capacitor_THT:CP_Radial_D16.0mm_P7.50mm")
@@ -3196,7 +3196,7 @@
       (reference "C5") (unit 1) (value "1000µ") (footprint "Capacitor_THT:CP_Radial_D10.0mm_P5.00mm")
     )
     (path "/97520acb-35f8-48c3-a00c-f4b323cc3ab9"
-      (reference "C6") (unit 1) (value "0.1µ") (footprint "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder")
+      (reference "C6") (unit 1) (value "0.1µ") (footprint "Capacitor_THT:C_Disc_D6.0mm_W2.5mm_P5.00mm")
     )
     (path "/c1f10308-ec7f-47d2-9f01-fc99bc203e3f"
       (reference "C7") (unit 1) (value "1000µ") (footprint "Capacitor_THT:CP_Radial_D10.0mm_P5.00mm")
